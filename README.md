@@ -27,6 +27,8 @@ Ex: git config --global user.name "abc"
 - **git reset --hard HEAD^**: Undo last commit and delete all changes (Don't do after push)
 - **git reset --hard HEAD^^**: Undo last 2 commits and all changes (Don't do after push)
 - **git checkout -- <fileName>** : Delete all changes since <fileName>
+- **git checkout -b <branchNam>** : Create and switch to <branchName>
+  
   
   
  
